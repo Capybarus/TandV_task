@@ -2,7 +2,5 @@
 
 int main()
 {
-	using namespace std;
-
-	cout << "hello world\n";
+	std::cout << "hello world\n";
 }
